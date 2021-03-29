@@ -1,0 +1,134 @@
+/* Header */
+@media (max-width:1000px) {
+  .btn {
+    width: 100%;
+  }
+
+  .top-wrapper {
+    padding-top: 130px;
+  }
+
+  .top-wrapper h1 {
+    font-size: 20px;
+  }
+
+}
+
+/*untuk smartphone */
+@media all and (max-width: 670px) {
+  .btn {
+    width: 100%;
+  }
+
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+}
+
+/* lesson */
+/* tablet device */
+@media (max-width: 1000px) {
+  h1 {
+    font-size: 45px;
+  }
+
+  .learn {
+    margin-top: 45px;
+  }
+
+  .item {
+    width: 40%;
+    margin-bottom: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+
+}
+
+/* mobile device */
+@media (max-width: 670px) {
+  h1 {
+    font-size: 30px;
+  }
+
+  p {
+    font-size: 13px;
+  }
+
+  .learn {
+    margin-top: 20px;
+  }
+
+  .item {
+    width: 100%;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .item2 {
+    width: 100%;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .box {
+    height: auto;
+    margin-top: 25px;
+  }
+
+  .box h4 {
+    font-size: 17px;
+  }
+
+  .box img {
+    width: 50px;
+  }
+
+}
+
+/* About us */
+/* tablet device */
+@media (max-width: 1000px) {
+  .about {
+    width: 50%;
+
+  }
+
+  .keterangan h1 {
+    font-size: 35px;
+  }
+
+  .gambar {
+    width: 70%;
+
+  }
+}
+
+/* mobile device */
+@media (max-width: 670px) {
+  .about {
+    width: 50%;
+  }
+
+  .keterangan h1 {
+    font-size: 19px;
+  }
+
+  .gambar {
+    width: 80%;
+
+  }
+
+  .text-contents {
+    font-size: 13px;
+  }
+}
+
+/* Our Project */
+
+
+/* Our Team */
